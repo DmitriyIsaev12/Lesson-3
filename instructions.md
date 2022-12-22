@@ -34,6 +34,7 @@
 
 ## Работа с изображениями
 
+![](https://picsum.photos/800/600)
 
 ## Работа с таблицами
 
@@ -42,3 +43,5 @@
 ## Заключение
 ## Read
 ## change
+
+[def]: /images/Users/darinaisaeva/Desktop/marcdown.jpg
